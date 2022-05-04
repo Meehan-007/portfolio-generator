@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo\\\"error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meehan-007/portfolio-generator.git"
+  },
+  "author": "Meehan-007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meehan-007/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Meehan-007/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
